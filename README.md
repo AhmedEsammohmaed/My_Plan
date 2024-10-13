@@ -124,7 +124,10 @@ and Books
 + [monkeytype](https://monkeytype.com/)
 
 + [speedtype:dev](https://www.speedtyper.dev/)
-#
+
+# mock interciews
+
++ we can do mock interviews with each other every month on specific topics from our choice to enhance our knowledge for concepts and to be perpared for the interviews from now and also for fun  
 
  # CS50
   [CS50](https://youtube.com/playlist?list=PLhQjrBD2T381WAHyx1pq-sBfykqMBI7V4&si=D7iELGeVSZ2wiGaX)
