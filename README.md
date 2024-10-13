@@ -34,7 +34,7 @@ and OOP
 ### level 1 :
  + content-->Data structure
 and Algorithms
- + problem solving
+ + problem solving  [Leetcode](https://leetcode.com/problemset/)
 
   💎Resources:[DSA](https://www.geeksforgeeks.org/learn-data-structures-and-algorithms-dsa-tutorial/?ref=shm)
 
@@ -48,7 +48,7 @@ and Algorithms
 ### level 2 :
  + content-->Operating system and Database
 
-+ keep problem solving (data structure and algorithms)
++ keep problem solving (data structure and algorithms)  [Leetcode](https://leetcode.com/problemset/)
 
 💎Resources:[Operating system](https://www.geeksforgeeks.org/operating-systems/?ref=shm)
 
@@ -65,7 +65,7 @@ and Algorithms
 ### level 3 :
  + content-->Computer architecture and Networks
   
-+ keep problem solving (data structure and algorithms)
++ keep problem solving (data structure and algorithms)  [Leetcode](https://leetcode.com/problemset/)
 
 💎Resources:[Computer architecture](https://www.geeksforgeeks.org/computer-organization-and-architecture-tutorials/?ref=shm)
 
@@ -80,7 +80,7 @@ and Algorithms
 ### level 4 :
  + content-->System design and design pattern
 
-  + keep problem solving (data structure and algorithms)
+  + keep problem solving (data structure and algorithms)  [Leetcode](https://leetcode.com/problemset/)
 
 💎Resources:[System design](https://www.geeksforgeeks.org/system-design-tutorial/)
 
