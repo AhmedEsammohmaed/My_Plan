@@ -86,6 +86,8 @@ and Algorithms
 
 💎Resources:[design pattern](https://www.geeksforgeeks.org/software-design-patterns/?ref=shm)
 
+💎Resources:[System-design  github repo](https://github.com/donnemartin/system-design-primer)
+
 📖📕📔📗📘📚
 
 [Design Patterns: Elements of Reusable Object-Oriented](https://a.co/d/8wVlv9j)
@@ -122,4 +124,11 @@ and Books
 
 #
 #
-    
+
+# additional github resources :
+ +[evey-programmer-should-know](https://github.com/mtdvio/every-programmer-should-know)
+
+ +[Best-website-a-programmer-should-visit](https://github.com/sdmg15/Best-websites-a-programmer-should-visit)
+
+
+
