@@ -21,6 +21,13 @@ and OOP
 
  💎Resources: [C++ , OOP](https://www.geeksforgeeks.org/c-plus-plus/)
 
+ 
+   📖📕📔📗📘📚 
+   
+   [c++ how to program](https://www.amazon.com/How-Program-10th-Paul-Deitel/dp/9332585733)
+   
+   [the c++ programming language ](https://a.co/d/9zW7nME)
+   
 
 
 ##
@@ -31,7 +38,12 @@ and Algorithms
 
   💎Resources:[DSA](https://www.geeksforgeeks.org/learn-data-structures-and-algorithms-dsa-tutorial/?ref=shm)
 
+📖📕📔📗📘📚
+ 
+[Grokking algorithm](https://a.co/d/eSXrera)
 
+
+[Data Structures & Algorithm Analysis in C++](https://a.co/d/62TaU4i)
 ##
 ### level 2 :
  + content-->Operating system and Database
@@ -41,6 +53,14 @@ and Algorithms
 💎Resources:[Operating system](https://www.geeksforgeeks.org/operating-systems/?ref=shm)
 
 💎Resources:[Database](https://www.geeksforgeeks.org/dbms/?ref=shm)
+
+📖📕📔📗📘📚
+
+[Operating System Concepts](https://a.co/d/76pZBdh)
+
+
+
+
 ##
 ### level 3 :
  + content-->Computer architecture and Networks
@@ -50,6 +70,12 @@ and Algorithms
 💎Resources:[Computer architecture](https://www.geeksforgeeks.org/computer-organization-and-architecture-tutorials/?ref=shm)
 
 💎Resources:[Networks](https://www.geeksforgeeks.org/basics-computer-networking/?ref=header_outind)
+
+📖📕📔📗📘📚
+
+[Computer Architecture](https://a.co/d/4ni073R)
+
+[Computer Networking: A Top-Down Approach](https://a.co/d/f5QCdZi)
 ##
 ### level 4 :
  + content-->System design and design pattern
@@ -59,13 +85,41 @@ and Algorithms
 💎Resources:[System design](https://www.geeksforgeeks.org/system-design-tutorial/)
 
 💎Resources:[design pattern](https://www.geeksforgeeks.org/software-design-patterns/?ref=shm)
+
+📖📕📔📗📘📚
+
+[Design Patterns: Elements of Reusable Object-Oriented](https://a.co/d/8wVlv9j)
+
+[Head First Design Patterns: Building Extensible and Maintainable Object-Oriented Software](https://a.co/d/4IhZ37O)
+
 ##
 ### interviewws:
  + content--> github repositories
 and Books
 
-💎Resources:
+💎Resources:[conding interview university](https://github.com/jwasham/coding-interview-university)
+
+💎Resources:[tech interview handbook](https://github.com/yangshun/tech-interview-handbook)
+
+📖📕📔📗📘📚
+
+[Cracking the Coding Interview](https://a.co/d/aDQmymi)
+
+#
+
+#
+
+# *important skill:
+    Touch Typing -->Touch typing is the ability to type using all your fingers, without looking at the keyboard.
+ websites -->
+
++ [edclub](https://www.edclub.com/)
 
 
++ [monkeytype](https://monkeytype.com/)
 
++ [speedtype:dev](https://www.speedtyper.dev/)
+
+#
+#
     
