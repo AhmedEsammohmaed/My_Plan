@@ -36,7 +36,7 @@ and OOP
 and Algorithms
  + problem solving  [Leetcode](https://leetcode.com/problemset/)
 
-  💎Resources:[DSA](https://www.geeksforgeeks.org/learn-data-structures-and-algorithms-dsa-tutorial/?ref=shm)
+  💎Resources: [DSA](https://www.geeksforgeeks.org/learn-data-structures-and-algorithms-dsa-tutorial/?ref=shm)
 
 📖📕📔📗📘📚
  
