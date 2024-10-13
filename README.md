@@ -111,8 +111,11 @@ and Books
 
 #
 
-# *important skill:
-    Touch Typing -->Touch typing is the ability to type using all your fingers, without looking at the keyboard.
+# *********** The next part is additional part for you ***********
+
+#   Touch Typing 
+
+   -->Touch typing is the ability to type using all your fingers, without looking at the keyboard.
  websites -->
 
 + [edclub](https://www.edclub.com/)
@@ -121,8 +124,11 @@ and Books
 + [monkeytype](https://monkeytype.com/)
 
 + [speedtype:dev](https://www.speedtyper.dev/)
-
 #
+
+ # CS50
+  [CS50](https://youtube.com/playlist?list=PLhQjrBD2T381WAHyx1pq-sBfykqMBI7V4&si=D7iELGeVSZ2wiGaX)
+
 #
 
 # additional github resources :
@@ -130,7 +136,16 @@ and Books
 
  +[Best-website-a-programmer-should-visit](https://github.com/sdmg15/Best-websites-a-programmer-should-visit)
 
+ # podcast :
+ 
+ + [codezilla](https://youtube.com/playlist?list=PLsqPSxnrsWLuE-O3IKIUWy6Hmelz3bMWy&si=I0pNchXyIhxwowro)
+   
+ + [Mohamed Elsirif](https://youtube.com/playlist?list=PLJYBTsbldfv98tQGoFchRd-IwsjLM3efz&si=DZGfXDyiG-RaTKW8)
+ 
+ 
+ 
 
+#
 feel free to Contact :
 [Ahmed Esam](https://www.linkedin.com/in/ahmed-esam-009983277/)
 
