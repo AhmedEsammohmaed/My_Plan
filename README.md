@@ -144,7 +144,14 @@ and Books
  + [codezilla](https://youtube.com/playlist?list=PLsqPSxnrsWLuE-O3IKIUWy6Hmelz3bMWy&si=I0pNchXyIhxwowro)
    
  + [Mohamed Elsirif](https://youtube.com/playlist?list=PLJYBTsbldfv98tQGoFchRd-IwsjLM3efz&si=DZGfXDyiG-RaTKW8)
- 
+
+
+ # Social media directing (if you want) :
+ + linkedin
+
+ + Discord
+
+ + Youtube (not the tutorial in this part)
  
  
 
